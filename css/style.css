@@ -39,7 +39,18 @@ html, body{
 
 .form{
     width: 400px;
+    padding: 8px;
     height: calc(100% + 30px);
-    background-color: red;
+    top: -15px;
+    position: relative;
+    border: solid 8px #133337;
+    border-radius: 0px 35px 0px 35px;
+    background-color: white;
     float: right;
+}
+
+.form h2{
+    color: rgb(33, 35, 67);
+    font-size: 26px;
+    text-align: center;
 }
