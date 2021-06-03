@@ -103,3 +103,7 @@ html, body{
 .form input[type=submit]:hover{
     background-color: #0d2326;
 }
+
+.test{
+    color: blue;
+}
