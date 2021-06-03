@@ -97,4 +97,9 @@ html, body{
     border-left: 0;
     border-right: 0;
     border-bottom: solid 5px #071416;
+    cursor: pointer;
+}
+
+.form input[type=submit]:hover{
+    background-color: #0d2326;
 }
