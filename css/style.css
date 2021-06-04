@@ -106,4 +106,7 @@ html, body{
 
 .container-list{
     float: left;
+    width: 619px;
+    height: 270px;
+    background-color: rgba(33, 35, 67, 0.7);
 }
