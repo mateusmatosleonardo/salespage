@@ -47,7 +47,6 @@ html, body{
     border-radius: 0px 35px 0px 35px;
     background-color: white;
     float: right;
-    background-clip: padding-box;
 }
 
 .form h2{
