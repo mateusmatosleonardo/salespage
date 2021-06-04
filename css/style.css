@@ -105,8 +105,14 @@ html, body{
 }
 
 .container-list{
+    margin-top: 60px;
     float: left;
     width: 619px;
     height: 270px;
     background-color: rgba(33, 35, 67, 0.7);
+}
+
+.container-list ul{
+    /* list inside the container */
+    list-style-position: inside;
 }
