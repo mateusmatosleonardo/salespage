@@ -123,3 +123,8 @@ html, body{
     margin-top: 25px;
     margin-left: 10px;
 }
+
+.container-two{
+    /* Espaçamento cima a baixo e esquerda direita 0 */
+    padding: 40px 0;
+}
