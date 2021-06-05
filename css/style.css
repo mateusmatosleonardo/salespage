@@ -128,4 +128,5 @@ html, body{
     /* Espaçamento cima a baixo e esquerda direita 0 */
     padding: 40px 0;
     background-color: #212343;
+    text-align: center;
 }
