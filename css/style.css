@@ -126,8 +126,14 @@ html, body{
 
 .container-two{
     /* Espaçamento cima a baixo e esquerda direita 0 */
-    padding: 40px 0;
+    padding: 70px 0;
     background-color: #212343;
     text-align: center;
     color: white;
+}
+
+.container-two p{
+    width: 698px;
+    display: inline-block;
+    margin: 20px 0;
 }
