@@ -146,6 +146,7 @@ html, body{
     /* Para a seta ficar metade para dentro e metade para fora */
     top: 85px;
     position: relative;
+    /* Centralizando no meio */
     left: 50%;
     border-radius: 100%;
     margin-left: -20px;
