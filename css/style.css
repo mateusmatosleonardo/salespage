@@ -126,7 +126,7 @@ html, body{
 
 .container-two{
     /* Espaçamento cima a baixo e esquerda direita 0 */
-    padding: 70px 0;
+    padding: 60px 0;
     background-color: #212343;
     text-align: center;
     color: white;
@@ -143,4 +143,11 @@ html, body{
     height: 52px;
     background-image: url(../img/arrow.jpg);
     background-size: 100% 100%;
+    /* Para a seta ficar metade para dentro e metade para fora */
+    top: 85px;
+    position: relative;
+    left: 50%;
+    border-radius: 100%;
+    margin-left: -20px;
+    overflow: hidden;
 }
