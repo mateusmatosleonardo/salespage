@@ -149,6 +149,7 @@ html, body{
     /* Centralizando no meio */
     left: 50%;
     border-radius: 100%;
+    /* Centralizando perfeitamento no meio */
     margin-left: -20px;
     overflow: hidden;
 }
