@@ -153,3 +153,11 @@ html, body{
     margin-left: -20px;
     overflow: hidden;
 }
+
+.section-two{
+    padding: 90px 0;
+}
+
+.section-two h2{
+    text-align: center;
+}
