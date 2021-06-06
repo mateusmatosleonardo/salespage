@@ -92,16 +92,16 @@ html, body{
     color: white;
     font-size: 25px;
     display: inline-block;
-    background-color: #133337;
+    background-color: #212343;
     border-top: 0;
     border-left: 0;
     border-right: 0;
-    border-bottom: solid 5px #071416;
+    border-bottom: solid 5px #2a2c53;
     cursor: pointer;
 }
 
 .form input[type=submit]:hover{
-    background-color: #0d2326;
+    background-color: #13152c;
 }
 
 .container-list{
