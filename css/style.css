@@ -43,7 +43,7 @@ html, body{
     height: calc(100% + 30px);
     top: -15px;
     position: relative;
-    border: solid 8px #133337;
+    border: solid 5px rgba(128, 128, 128, 0.9);
     border-radius: 0px 35px 0px 35px;
     background-color: white;
     float: right;
