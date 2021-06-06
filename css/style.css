@@ -159,12 +159,31 @@ html, body{
 }
 
 .section-two h2{
+    margin-top: 8px;
     text-align: center;
     color: black;
 }
 
+.section-two h2{
+    margin-top: 8px;
+    text-align: center;
+    color: black;
+}
+
+
 .container-section{
-    margin-top: 40px;
+    margin-top: -15px;
     text-align: center;
 }
 
+.container-single{
+    float: left;
+    width: 33.333%;
+}
+
+.container-single img{
+    width: 230px;
+    overflow: hidden;
+    margin-bottom: -50px;
+    border-radius: 100%;
+}
