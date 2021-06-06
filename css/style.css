@@ -186,6 +186,7 @@ html, body{
     overflow: hidden;
     margin-bottom: -50px;
     border-radius: 100%;
+    padding-top: 15px;
 }
 
 .container-single h2{
