@@ -201,8 +201,14 @@ html, body{
 }
 
 .footer{
-    padding: 40px 0;
-    border-top: 4px solid #212343;
+    padding: 15px 0;
+    background-color: #212343;
+    border-top: 4px solid black;
     min-width: 1200px;
     text-align: center;
+}
+
+.footer p{
+    margin-top: 7px;
+    color: white;
 }
