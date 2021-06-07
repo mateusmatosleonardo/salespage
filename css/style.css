@@ -202,5 +202,6 @@ html, body{
 
 .footer{
     padding: 30px 0;
-    border: 4px solid #212343;
+    border-top: 4px solid #212343;
+    min-width: 1200px;
 }
