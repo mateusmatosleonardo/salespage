@@ -5,7 +5,7 @@
 
 **Overall progress**
 
-![progress](https://progress-bar.dev/55/ "progresso")
+![progress](https://progress-bar.dev/85/ "progresso")
 
 ## Extra codes
 **Hover effect**: When you hover over, the button will change color
