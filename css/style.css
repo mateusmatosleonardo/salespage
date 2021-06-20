@@ -144,7 +144,6 @@ html, body{
 }
 
 .container-two p{
-    max-width: 768px;
     width: 100%;
     display: inline-block;
     margin: 20px 0;
