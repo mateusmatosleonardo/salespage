@@ -16,7 +16,7 @@ html, body{
 
 /* general */
 .center{
-    width: 1200px;
+    width: 100%;
     /* centralize */
     margin: 0 auto;
     padding: 0 2%;
