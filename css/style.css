@@ -145,6 +145,7 @@ html, body{
 
 .container-two p{
     width: 100%;
+    max-width: 768px;
     display: inline-block;
     margin: 20px 0;
     text-align: justify;
