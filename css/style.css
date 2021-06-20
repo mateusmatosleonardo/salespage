@@ -168,7 +168,6 @@ html, body{
 }
 
 .section-one{
-    min-width: 1200px;
     background-color: #ccc;
     padding: 90px 0;
 }
