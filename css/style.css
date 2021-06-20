@@ -16,6 +16,7 @@ html, body{
 
 /* general */
 .center{
+    
     width: 100%;
     /* centralize */
     margin: 0 auto;
@@ -23,7 +24,6 @@ html, body{
 }
 
 .header{
-    min-width: 1200px;
     width: 100%;
     height: 90px;
     background-color: rgb(33, 35, 67);
@@ -35,7 +35,6 @@ html, body{
 }
 
 .container-banner{
-    min-width: 1200px;
     padding: 0 2%;
     width: 100%;
     height: 556px;
@@ -43,6 +42,11 @@ html, body{
     /* cover all area */
     background-size: cover;
     background-position: center;
+}
+
+.container-banner > .center{
+    height: 100%;
+    max-width: 1280px;
 }
 
 .form{
@@ -142,6 +146,7 @@ html, body{
 }
 
 .container-two p{
+    max-width: 768px;
     width: 698px;
     display: inline-block;
     margin: 20px 0;
