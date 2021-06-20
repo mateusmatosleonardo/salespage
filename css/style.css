@@ -145,7 +145,7 @@ html, body{
 
 .container-two p{
     max-width: 768px;
-    width: 698px;
+    width: 100%;
     display: inline-block;
     margin: 20px 0;
     text-align: justify;
@@ -207,7 +207,6 @@ html, body{
     padding: 15px 0;
     background-color: #212343;
     border-top: 4px solid black;
-    min-width: 1200px;
     text-align: center;
 }
 
