@@ -5,19 +5,15 @@
 
 **Overall progress**
 
-![progress](https://progress-bar.dev/85/ "progresso")
+![progress](https://progress-bar.dev/100/ "progresso")
 
-## Extra codes
-**Hover effect**: When you hover over, the button will change color
+## presentation 👇
 
-```
-.form input[type=submit]:hover{
-    background-color: #0d2326;
-}
-```
+![sales page](https://user-images.githubusercontent.com/73812069/126164082-9cdda562-284d-446b-93b9-bf6072ff04ec.png)
+![sales page 2](https://user-images.githubusercontent.com/73812069/126164824-b2ec6160-f707-4bb3-bffd-3e7f90f41fb7.png)
 
-![git hover](https://user-images.githubusercontent.com/73812069/120703807-2929c180-c48c-11eb-944c-353be3e34503.png)
-![git2 hover2](https://user-images.githubusercontent.com/73812069/120703952-570f0600-c48c-11eb-89b2-5ab19372fc08.png)
+
+
 
 
 
