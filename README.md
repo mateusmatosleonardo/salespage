@@ -1,11 +1,7 @@
 # salespage
  simple sales page
 
-## Easy-to-understand layout, and practicality
 
-**Overall progress**
-
-![progress](https://progress-bar.dev/100/ "progresso")
 
 ## presentation 👇
 
